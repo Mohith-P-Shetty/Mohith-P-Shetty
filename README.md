@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohith-P-Shetty
-- 👀 I’m interested in Computers Games and Hiking
+- 👀 I’m interested in Computer,Games and Hiking
 - 🌱 I’m currently learning React
 - 📫 How to reach me  @ mohithps07@gmail.com
 <!---
